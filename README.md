@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/Frankmyprojects/HelloProjectrefresh/_apis/build/status%2FHelloProjectrefresh%20build%20pipeline?branchName=master)](https://dev.azure.com/Frankmyprojects/HelloProjectrefresh/_build/latest?definitionId=1&branchName=master)
